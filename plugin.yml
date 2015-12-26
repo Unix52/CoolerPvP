@@ -1,0 +1,145 @@
+name: CoolerPvP
+main: CoolerPvP.Main.Main
+version: 0.1
+author: Adpneto
+commands:
+  Admin:
+     description: Entre em Modo administrador
+  Build:
+     description: Ative ou desative seu modo de construcao 
+  Cc:
+     description: Limpe a chat global 
+  Ccp:
+     description: Limpe seu chat pessoal 
+  Cl:
+     description: Trave o chat global
+  Clear:
+     description: Limpe seu inventorio
+  Desmute:
+     description: Deixe o jogador silenciado falar denovo
+  Gm:
+     description: Entre em um modo
+  Head:
+     description: Pegue uma cabeça 
+  Invsee:
+     description: Veja o inventorio de um player
+  Kick:
+     description: Expluse um player
+  List:
+     description: Veja a lista de player online
+  Mute:
+     description: Silencie um jogador
+  Report:
+     description: Reporte um jogador violando as regras
+  S:
+     description: Entre na chat da staff
+  Tell:
+     description: Envie Mensagens privadas 
+  Tp:
+     description: Va ate um jogador
+  Tpall:
+     description: Puche todos os jogadores
+  Anchor:
+     description: 
+  Archer:
+     description: 
+  Backpacker:
+     description: 
+  Berserker:
+     description: 
+  Bomber:
+     description: 
+  Bothside:
+     description: 
+  Boxer:
+     description: 
+  Camel:
+     description: 
+  Chemist:
+     description: 
+  Dwarf:
+     description: 
+  Endermage:
+     description: 
+  Fisherman:
+     description: 
+  Freeze:
+     description: 
+  Frosty:
+     description: 
+  Gambler:
+     description: 
+  Gladiator:
+     description: 
+  Grandpa:
+     description: 
+  Grappler:
+     description: 
+  Hulk:
+     description: 
+  Jumper:
+     description: 
+  Kangaroo:
+     description: 
+  Launcher:
+     description: 
+  Macaco:
+     description: 
+  Milkman:
+     description: 
+  Monk:
+     description: 
+  Neo:
+     description: 
+  Ninja:
+     description: 
+  Phantom:
+     description: 
+  Poseidon:
+     description: 
+  PvP:
+     description: 
+  Pyro:
+     description: 
+  Rider:
+     description: 
+  Robinhood:
+     description: 
+  Salamander:
+     description: 
+  Skeleton:
+     description: 
+  Snail:
+     description: 
+  Sniper:
+     description: 
+  Specialist:
+     description: 
+  Spectre:
+     description: 
+  Stomper:
+     description: 
+  Stoneman:
+     description: 
+  Switcher:
+     description: 
+  Tank:
+     description: 
+  Thor:
+     description: 
+  Timelord:
+     description: 
+  Turtle:
+     description: 
+  Urgal:
+     description: 
+  Vacuum:
+     description: 
+  Vampire:
+     description: 
+  Viking:
+     description: 
+  Viper:
+     description: 
+  Wither:
+     description: 

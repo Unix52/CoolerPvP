@@ -1,0 +1,61 @@
+#CkPvP Configurações do plugin do servidor
+#Verção do plugin CkPvP v1.0
+
+# |--------------------- Variaveis -------------------|
+# | @player = Nome do jogador                         |
+# | % = Pular linha                                   |
+# | & = Cor                                           |
+# |===================================================|
+
+
+#Mensagens do servdor 
+NomeDoServidor: "CoolerPvP"
+Permissao: "&cVoce nao pode utilizar este comando no servidor"
+Offline: "&cEste jogador nao esta online"
+Console: "&cApenas jogadores poderao usar este comando"
+IP: "a1.coolerhg.com.br:30054"
+Motd: "&a&oCkPvP - &b&oServidor de KitPvP"
+Whitelist: "Servidor com WhiteList voce nao esta listado"
+ServidorCheio: "&9Servidor esta cheio % &9Compre vip no nosso site:&6 @site"
+Entrada: "&7[&a+&7]@player"
+Saida: "&7[&4-&7]@player"
+#Usar combatlog?
+CombatLog: true
+
+#Placas
+#No maximo 15 caracterias
+#Para voce colocar esta placa 
+#1° coloque uma placa
+#2° escreva na primeira linha Sopas
+Sopas:
+ 1: "&0&l==============="
+ 2: "&9&lCoolerPvP"
+ 3: "&0&lSopas"
+ 4: "&0&l==============="
+#Para voce colocar esta placa 
+#1° coloque uma placa
+#2° escreva na primeira linha Potes
+Potes:
+ 1: "&0&l==============="
+ 2: "&9&lCoolerPvP"
+ 3: "&0&lPotes"
+ 4: "&0&l==============="
+
+#Colorimento do chat
+Normal: "@player&6:&7 @msg"
+Youtuber: "@player&6(puke) @msg"
+Vip: "@player&6:&b @msg"
+Mvp: "@player&6:&9 @msg"
+Pro: "@player&6:&6 @msg"
+Mod: "@player&6:&5 @msg"
+Admin: "@player&6:&c @msg"
+Dono: "@player&6:&c @msg"
+
+#Implementos 1.8x
+Usar: true
+Entrada:
+ 1: "&eOlá"
+ 2: "&9Seja bem-vindo ao &e@server"
+Tab:
+ 1: "&b&oBem-Vindo &6&l@player &b&oao CoolerPvP"
+ 2: "&a&oTreine bastande para ser o melhor de Todos"
